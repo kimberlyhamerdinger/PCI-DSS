@@ -1,0 +1,69 @@
+{
+  "version": "3.17.16117.0",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5dt5twcdMg3",
+      "title": "Untitled Slide",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6VSiQztgEyM",
+      "title": "Untitled Slide",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6neTz21QYvM",
+      "title": "Untitled Slide",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5lorXjdUWHb",
+      "title": "Untitled Slide",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "630UjlkNOHk",
+      "title": "Untitled Slide",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6UlZt7NCRwG",
+      "title": "Untitled Slide",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6MUXZtWkfgx",
+      "title": "Untitled Slide",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "6d5XjYSQVeS",
+      "title": "Untitled Slide",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "5s8xnOWfVML",
+      "title": "Untitled Slide",
+      "scene_index": "1.9"
+    },
+    {
+      "id": "5tvmotLMNHz",
+      "title": "Untitled Slide",
+      "scene_index": "1.10"
+    }
+  ],
+  "player": {
+    "name": "classic",
+    "width": 740,
+    "height": 425
+  },
+  "stage": {
+    "width": 720,
+    "height": 405
+  }
+}
